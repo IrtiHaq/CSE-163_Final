@@ -1,5 +1,5 @@
 # CSE 163 Final Project
-### By Irti Haq & Charlie Norgaard 
+##### By Irti Haq & Charlie Norgaard 
 ## Analyzing the Relationship Between National Forest Coverage, Population Access to Electricity, and GDP Growth Rate
 
 
